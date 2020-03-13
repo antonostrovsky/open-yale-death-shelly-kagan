@@ -1,0 +1,92 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: Arguments for the existence of the soul, Part I
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 12/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# Arguments for the existence of the soul, Part I
+
+
+<What reasons do we have to believe in soul?>: 
+How do we prove the existence of things in general?
+We use our senses - see, feel, hear. #note
+
+<How do we prove the existence of things we don't see?>:
+I.e. atoms - the theory explains, and we INFER their existence.
+We use procedure called INFERENCE TO THE BEST EXPLANATION.
+Not the *simplest* but *the best* explanation. #note
+
+<Example: Demon theory>: Diseases are caused by demons #dualist
+ -  This theory doesn't do a very good job in explaining disease #physicalist
+    + <Germ theory>: Germ theory does a much better (the best) job at explaining
+    the facts about disease. #physicalist
+
+<Concept>: Are there features of humans that physicalism fails to explain, 
+but dualism explains very well?
+We will run through a series of arguments. There are two approaches:
+*ordinary* familiar facts about us, and *extraordinary* #note
+
+
+<Dualist Argument 1>: Existence of the soul explains animation of the body #dualist
+ - <Physicalist objection 1>: to have an animated body you need to have a *functioning* body. 
+ It is true that if you have a corpse you have all the parts there, but the body is not 
+ functioning anymore. #physicalist
+
+<Dualist Argument 2>: For the body to function purposefully you need something to be 
+driving it (pulling the strings). Soul does that. #dualist
+ - <Physicalist objection 2>: We can explain purposeful activity with presence
+ of a part of the body that directs the body and is driving it. #physicalist
+  + We don't need anything as extravagant as a soul to explain how body acts and works.
+  We must infer to the BEST explanation. #physicalist
+  - <Dualist response 2>: There may be a part of the body that controls it, 
+  but this part still receives instructions from something outside of the body - 
+  the soul. #dualist
+   - <Physicalist objection 3>: Then it opens a possibility that humans are just 
+   robots and they do receive commands from the outside (acting out instructions) #physicalist
+    - The argument becomes messy! We have free will and robots don't have free will. #physicalist
+
+<Note 1>: The *ordinary* family of arguments is like that: just substitute *the 
+purposeful action of the body* with any other feature (F) and you get a new argument #note
+
+<Dualist Argument 3>: People have an ability to think, to reason, to believe and to desire. 
+Based on these they make plans and strategies and reason about what to do. 
+You need to appeal to a soul to explain that.
+No near machine could believe, desire or reason. #dualist
+ - <Physicalist response 3>: Computers also make plans and strategies #physicalist 
+   + Chess game example: the chess software is *worried* about having its king exposed, 
+   so it moves its queen to block player's bishop #physicalist
+   + We are ascribing desires to the program: 
+   "It has an ultimate desire to win the game" #physicalist
+  - <Dualist response 3>: We are only *personifying* a computer. We treat it *as though* 
+  it was a person. *As though* it has physical beliefs and desires. #dualist
+   - <Physicalist response 4>: Isn't this just predjudice? Of course it is true that 
+   if we simply insist: 
+   "No physical object could really have beliefs or desires" than it will follow that
+    when we are tempted to ascribe beliefs and desires to the chess playing computer we 
+    are falling into an illusion. But what reason is there for saying that it has no
+    beliefs or desires? That is far from obvious. #physicalist
+    
+<Note 2>: Desires seem to be very closely tied to emotions. #note
+ + We get worried when our chess pieces are threatened #note
+ + We get excited when our GF/BF say they love you.  #note
+ + Our stomach sinks when we get a bad grade on the test. #note
+
+<Note 3>: Desire has two sides: behavioural and emotional #note
+ + Machines can't have the emotional side and don't have it #note
+  + Machines have mental life, but they don't feel anything emotionally (they can't 
+  feel, love, etc.). #note
+
+
+    
