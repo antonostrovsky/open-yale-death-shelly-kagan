@@ -1,0 +1,49 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: Dualism vs. Physicalism 
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 12/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# Dualism vs Physicalism 
+
+<Question>: What does it mean that somebody has died? #note
+
+<Phrasing 1>: Is there *life* after *death*? #note
+  - <Syntax argument>: Death is the termination of life 
+  (when death comes there is no *life*). 
+  Therefore (at least syntactically) there can't be life after death #note2
+
+<Phrasing 2>: May I survive my death? #note
+  - <Syntax argument 2>: To survive is not to die. Death implies dying. 
+  Therefore you can't survive death. #note2
+
+<Phrasing 3>: Will I survive death of my body? #note
+  + <Syntax argument 3>: This is syntactically correct so we can start the discussion. #note
+
+
+<Dualist argument>: A person will survive death of his body #dualist
+  + <Dualist view>: 
+  A person is Body and Soul. 
+  After the death of the Body, Soul remains. #dualist
+    - <Logical flaw>: 
+    If Person is to survive death of Body, the person must be JUST the soul #physicalist
+    - <Mortality of soul>:
+    Soul may not survive death of the body (even if it is separate). #physicalist
+    + <Pin prick argument>:
+      Pain inflicted upon the body *may* influence the soul. 
+      Sufficiently heavy influence on the soul may cause its death. #physicalist
+  - <Phisicalist (monoist) view>: 
+  A person is a Body (that can do various things). 
+  When Body dies - a person dies too #physicalist
