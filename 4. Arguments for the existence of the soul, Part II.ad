@@ -1,0 +1,78 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: Arguments for the existence of the soul, Part II
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 12/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# Arguments for the existence of the soul, Part II
+
+## Part 1
+
+
+<Dualist argument 1>: No purely physical object could feel. Humans can feel.
+Therefore humans are not purely physical objects.  #dualist
+ - <Physicalist response 1>: Douglas Adams' Hitchhiker's Guide to Galaxy has robot Marvin
+ that feels depressed. That's how he behaves and that's why we ascribe depression to him.
+ #physicalist
+  + [P1]: The natural inclination here is to say that these robots are feeling emotion.
+  #physicalist
+  - <Dualist response 1>
+ - <Physicalist response 2>: 2001 Space Odyssey has a computer called HAL that says
+ that he is afraid, as he is being switched off. HAL is behaving the way you would
+ expect it to behave if it felt fear. #physicalist
+  + [P1]
+  - <Dualist response 1>: There is a *behavioural* aspect of feeling emotions, and there 
+  is the *experience* of it. No mere machine can possibly have *qualitative experience*,
+  but humans have it. Humans are therefore no merely physical objects. #dualist
+   + Does a blind person really know what it is like to see the color? Even if he is 
+   scientifically taught that one object is red and another is blue, does he really experience what 
+   it is like to see red? #dualist
+   + What about smell of a pineapple? Etc. These things are called 'Qualia' - qualitative 
+   aspects of things. #dualist
+   + <Physicalist admission>: Ideally we should say "Here's how to build a machine that can be 
+   conscious in this sense" ... But we don't know how to explain it in Physicalist terms. #physicalist
+    + This is why we should not be dismissive of the dualist viewpoint. We don't know enough
+    about consciousness *yet* to know whether or not it can be explained in physical terms.
+    #physicalist
+     - It is very important to remember that we are not looking for just any explanation,
+     but for the *best* explanation. How much of an explanation is it to say that consciousness
+     is not based in the body but in the soul? (physicalist) #physicalist
+
+
+ ## Part 2
+
+<Dualist argument 2>: People can be creative. #dualist
+ + <Physicalist response 3>: Machines can also be creative. #physicalist
+  + When chess program Deep Fritz beat Kramnik it was being creative #physicalist
+  + Software came up with a new proof of Pythagorean Theorem that nobody in the world has come
+  up with before. Without being predjudiced why can't we say that the machine is not being
+  creative? #physicalist
+  - <Dualist response 2>: Even if a program is being "creative" it is just automatically 
+  following the code. All the computer can do is automatically follow the program. It 
+  doesn't have free will. Humans have free will. #dualist
+
+
+## Part 3
+
+Which brings us to the new argument:
+
+Dualists say that humans have free will. No merely mechanical object, no robot,
+no computer can have free will. Since humans have free will they must be *more* than 
+merely a physical object. To explain free will we need to believe in souls.
+
+<Dualist argument 4>: We are not a purely physical system. #dualist
+ + We have free will #dualist
+ + Nothing subject to determinism has free will #dualist
+ + All purely physical systems are subject to determinism #dualist
