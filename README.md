@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Open Yale Courses - Death (PHIL 176). Shelly Kagan
 
-You can use the [editor on GitHub](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Adaptation to Argdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](https://oyc.yale.edu/death/phil-176) to [Argdown](https://argdown.org/)
 
-### Markdown
+#### Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Dualism vs Physicalism (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/2.%20Dualism%20vs.%20Physicalism.html)
 
-```markdown
-Syntax highlighted code block
+[Arguments for the existence of the soul, Part I (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/3.%20Arguments%20for%20the%20existence%20of%20the%20soul%2C%20Part%20I.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Arguments for the existence of the soul, Part II (HTML)](https://htmlpreview.github.io/?https://github.com/antonostrovsky/open-yale-death-shelly-kagan/blob/master/4.%20Arguments%20for%20the%20existence%20of%20the%20soul%2C%20Part%20II.html)
