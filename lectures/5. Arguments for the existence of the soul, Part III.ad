@@ -1,0 +1,76 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: Arguments for the existence of the soul, Part III
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 12/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# Arguments for the existence of the soul, Part III
+
+## Part 1
+
+<Dualist argument>: We are not a purely physical system. #dualist
+ + We have free will #dualist
+  - There are philosophers that deny that we have free will #physicalist
+ + <Incompatibalist claim>: Nothing subject to determinism has free will 
+  #dualist
+  - There are philosophers that believe that idea of free will is NOT incompatible
+  with determinism #physicalist
+ + All purely physical systems are subject to determinism #dualist
+  - The statement above is a claim about empirical science. The standard
+  interpretation of quantum mechanics says that the fundamental laws of physics
+  are not deterministic. #physicalist
+
+To get the conclusion, we need all free premises listed above.
+Each one of these premises can be plausibly challenged
+
+## Part 2
+
+<Dualist argument 2>: In "near-death" experiences people have 
+spiritual/religious visions of going to heaven. Their body remains 
+on "the operating table". Something else (the soul) must have gone outside 
+the body to have this experience. #dualist
+ - <Syntactical objection>: What is going on in "near-death" experiences can
+ not be real death, because they never really die. #physicalist
+  - This is a misguided objection. Even if the people didn't stay dead they may
+  have some experience of being dead. #dualist
+  - Even if the people didn't die at all, they may have something to say about
+  what it would be like if they came close to dying. #dualist
+ - <Physicalist objection>: The experience is caused by the body processes
+ deviating heavily from their normal operation, thus changing human perception. #physicalist
+  + Endorphins in stress contribute to euphoria #physicalist
+  + Unusual stimulation of visual sections of the brain result in tunnel 
+  vision effect #physicalist
+
+## Part 3
+
+<Dualist argument 3>: We need to believe in the soul to explain a 'Séance' #dualist
+ + <Magician's objection>: There are professional magicians that debunk 
+ claims of people communicating with the dead (i.e. magician Amazing Randy)#physicalist  
+
+## Part 4 - René Descartes story
+
+I woke up this morning. At a certain point I look around my room and I see 
+familiar sight of the bedroom. I move toward the bathroom, look in the mirror 
+and I don't see anything. Normally I see my face and my torso, but now there is 
+nothing in the mirror. In awe, I reach for my head and I don't feel anything 
+there. I don't feel my body and I don't have any sensations.
+
+<Descartes>: If I can tell a story where A exists and B doesn't exist, it must
+follow that A and B are not the same thing. And if I can imagine A without B 
+then A and B must be logically distinc things. #dualist 
+ - The argument is not saying that if we can imagine something it is true! The
+ argument is making a much more specific claim (if we can imagine one thing without
+ the other, they must be two separate things)
+
