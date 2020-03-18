@@ -6,8 +6,8 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 
 #### Contents
 
-[Dualism vs Physicalism (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/2.%20Dualism%20vs.%20Physicalism.html)
-[Dualism vs Physicalism (Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/2.%20Dualism%20vs.%20Physicalism.pdf)
+Dualism vs Physicalism [(HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/2.%20Dualism%20vs.%20Physicalism.html)[(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/2.%20Dualism%20vs.%20Physicalism.pdf)
+
 
 [Arguments for the existence of the soul, Part I (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/3.%20Arguments%20for%20the%20existence%20of%20the%20soul%2C%20Part%20I.html)
 
