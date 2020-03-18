@@ -1,0 +1,56 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: Arguments for the existence of the soul. Part IV. Plato Part I
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 18/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# Arguments for the existence of the soul, Part IV, Plato, Part I
+
+## Part 1
+
+
+<Cartesian argument>: I can imagine A without B. Therefore A and B are not the same thing. #dualist 
+ - <Physicalist objection>: Imagine a world where the evening star exists  but the morning star does not. 
+ Following Descartes logic we must conclude that the evening star and the morning star are two separate 
+ things.
+ That's not possible, because the evening star and the morning star are the same thing.  This indicates 
+ that the Cartesian argument fails. #physicalist
+   - You only *thought* you were imagining such a world, but you have actually misdescribed what you 
+   imagined.    Imagination is a flawed guide to logical possibility #physicalist
+     + "Imagine a round square" - some people will say they can, but that's not logically possible #physicalist
+   - <Notion of contingent identify>: The statement may contain two terms that differ in sense but are 
+   identical in reference, and are therefore not analytic. #physicalist
+
+### Platonic metaphysical view:
+
+<Socrates>: We don't need to appeal to the concept of soul to explain bodily sensations, cravings, desires,
+emotions and feelings. That's all taken care of by the body. The soul *thinks*. #dualist
+
+ There's all sort of beautiful objects in the world. Objects can vary in how beautiful they are.
+ Ordinary physical objects are somewhat beautiful (they participate in beauty), but they shouldn't be 
+ confused with *the beauty itself*. 
+ Concept of justice: no existing laws are perfectly just. But we can always THINK about perfect justice.
+ We must not confuse people that are virtuous to one degree or another with *perfect virtue*. 
+ Perfect virtue is only something that *mind* can think about.
+ No physical object is perfectly circular. But we can THINK of a concept of perfect roundness.
+ Philosopher tries to free himself from the distractions that the body poses - desire for food, sex, 
+ pleasure. All of these things distract a philosopher from thinking about Platonic forms.
+
+<Simple claim>: 2+2=4 #physicalist
+ - <Platonic view on numbers>: What are numbers anyway? They are not physical objects. You will never find National Geographic issue
+ that will say on the cover "At long last explorers have discovered number 2" #dualist
+
+<Plato's idea>: The body is only dealing with the five senses and is incapable of thinking about Platonic 
+forms. The soul thinks about Platonic forms and is immortal. #dualist
