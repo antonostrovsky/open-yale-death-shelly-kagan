@@ -18,4 +18,4 @@ Arguments for the existence of the soul. Part IV. Plato Part I [(HTML)](https://
 
 Plato. Part II. Arguments for the immortality of the soul [(HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/7.%20Plato%2C%20Part%20II%2C%20Arguments%20for%20the%20immortality%20of%20the%20soul.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/7.%20Plato%2C%20Part%20II%2C%20Arguments%20for%20the%20immortality%20of%20the%20soul.pdf)
 
-
+Plato, Part III, Arguments for the immortality of the soul (cont.) [(HTML)](https://htmlpreview.github.io/?https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/8.%20Plato%2C%20Part%20III%20Arguments%20for%20the%20immortality%20of%20the%20soul%20(cont.).html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/8.%20Plato%2C%20Part%20III%20Arguments%20for%20the%20immortality%20of%20the%20soul%20(cont.).pdf)
