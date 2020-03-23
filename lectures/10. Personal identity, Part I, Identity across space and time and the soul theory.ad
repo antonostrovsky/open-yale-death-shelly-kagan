@@ -1,0 +1,44 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 10. Personal identity, Part I, Identity across space and time and the soul theory
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 22/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 10. Personal identity, Part I: Identity across space and time and the soul theory
+
+## What would it be for a thing like soul to survive the death?
+
+New concepts are introduced: space-time worms, and their slices.
+
+A car exists for 20 years. Tyres are changed, parts are replaced.
+Is it the same car?
+
+The metaphysical glue that makes a car in a junkyard 20 years later "your car"
+is the fact that it is "the same hunk of stuff" (despite possibly having replaced 
+quite a few parts throughout its usage).
+
+
+
+<Soul theorist>: You will *survive* the weekend as long as your Soul is still around. #dualist
+ + <Soul theory>: They key to personal identify is having the very same same soul. #dualist
+  - What if a deity takes your Soul out of your body whilst you are asleep, and 
+ replaces it with another Soul, but gives that Soul all of your memories, beliefs,
+ desires, intentions. Would it be the same person? #physicalist
+   - <Soul view>: No, it would be a different person, but there would be no way at all he could
+  know that! In fact, even if your Soul was swapped in such a way every hour of every day
+  you still won't know! #dualist
+    - <John Locke>: We can't take seriously the suggestion that there is no way at all to tell
+    whether it was still me from one hour to the next! It is just not plausible! It's not incoherent
+    but implausible. Even if Souls do exist, they may not be the key to personal identity.  #physicalist
