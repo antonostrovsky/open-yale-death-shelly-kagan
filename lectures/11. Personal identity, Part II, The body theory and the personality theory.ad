@@ -1,0 +1,56 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: Personal identity, Part II. The body theory and the personality theory
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 23/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 11. Personal identity, Part II. The body theory and the personality theory
+
+## *Body* theory of personal identity
+
+<Early Christian case, Judgement Day resurrection>: A deity perfectly re-assembles all 
+molecules of a dead person together, thus resurrecting the person. #dualist
+ - <Metaphysicist's objection>: Admittedly, it's the same pieces and it's the same order,
+ but it's not the same person! #physicalist
+ - <Peter van Inwagen>: Suppose that your son builds a tower out of wooden blocks.
+ he then says "Please show it to mom when she is back!" and goes to sleep. 
+ Accidentally you knock over the tower! You take the blocks and put them back in exactly 
+ the same position as they were (each block faces the right way!). The mother comes back 
+ and you say 'That's the tower our son built!'. Ehh. That's not the tower your son built! 
+ It's a duplicate of the tower your son built. 
+ Conclusion: if you have an object and you take it apart and put it back together, 
+ it's not the very same object that you started out with! #physicalist
+  + <A wristwatch example>: But what if the same happened to a wristwatch? 
+  It has been disassembled and re-assembled. Surely it's exactly the same watch? #dualist
+
+### *Body* View - *Brain* theory of personal identity
+
+<Physicalist Brain view>: The key to personal identify is the same brain #dualist
+
+
+## *Personality* theory of personal identity
+
+<Physicalist Personality view>: The key to personal identity is the same personality
+(beliefs, memories, desires) #physicalist
+ - If every time you get a new memory your personality changes, then do you get a new 
+ personal identity each time you get a new memory? #dualist
+  + <Personality theorist>: We don't mean exactly the same set of memories and desires.
+   We mean: a *slowly evolving* personality #physicalist
+   + <Personality theorist explains>: Even if I have few or no memories identical to the 
+   ones that I had when I was 10 years old it's OK: we can still say it's the same
+   evolving personality, so long as there is a pattern of continuity: some beliefs are lost, 
+   some beliefs are added, but as long as there is an overlap and continuity it's 
+   the same personality. #physicalist
+
