@@ -1,0 +1,72 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 12. Personal identity, Part III, Objections to the personality theory
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 24/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        note: 3
+        note2: 2
+        dualist: 4
+        physicalist: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 12. Personal identity, Part III: Objections to the personality theory
+
+## Bernard Williams' thought experiment - Mad scientist
+
+**Mad scientist's first experiment**: I will swap your mind with another person's (your body will have 
+someone else's mind in it and your mind will be in another person's body). When I am 
+done I will torture one of these bodies. But I am a generous mad scientist, so I will let
+you choose which one I torture!
+
+**Person**: Intuitively I am afraid of the pain, so I'd rather have you torture the body where my mind 
+isn't right now (the other mind with my original body).
+
+**Mad scientist's second experiment**: Well.. I will still torture the body with *your* mind inside it, but 
+before I do this I will give your mind amnesia, so that you won't remember anything 
+and won't have any of your previous beliefs, desires, memories.
+
+**Person**: That's still awful! I would still feel the pain and in addition to that won't 
+remember anything. That's not good!
+
+**Mad Scientist**: OK, let me make this better for you! After I give you amnesia I will 
+make you believe that you are the other person that I've swapped you with (you will 
+have her beliefs, desires, memories).
+
+**Person**: Still doesn't sound great, as I will still feel the pain!
+
+**Mad Scientist**: Finally, one more option! How about I give amnesia and false memories 
+to both your mind and the other person's mind that would be in your body?
+
+**Person**: It makes no difference whatsoever! I would still be in pain and you would also 
+play tricks on that other person. That is a bad deal! 
+
+<Body theory of personal identity>: The key to personal identity is the physical *body* #dualist
+ - <Williams' thought experiment 1>: No, because the person's intuitive reaction was
+ to save his mind and sacrifice the physical body, when given the choice. #physicalist
+
+<Personality theory of personal identity>: The key to personal identity is *personality* #dualist
+ - <Williams' thought experiment 2>: No! Despite having my *personality* transferred to another body,
+  I still refuse to be tortured! #physicalist
+
+## Philosophical objection to Personality Theory of Personal Identity (PTPI)
+
+<Objection to PTPI>: Imagine that when Napoleon dies, he is immediately reincarnated as a man
+in Michigan. This man happens to have all beliefs, desires, memories (and even speaks the language)
+ of Napoleon. According to PTPI this person is Napoleon. #dualist
+  + It is easy to agree with PTPI here. Perhaps that person then becomes the Napoleon #dualist
+
+<Objection to PTPI 2>: Imagine that Napoleon dies, but this time two men suddenly appear as his
+reincarnations. One in Michigan and one in New York. They both happen to have all beliefs, desires, memories 
+ of Napoleon. Does it follow that both these men are Napoleon? #dualist
+ - It appears that neither of them are Napoleon. So PTPI appears to be false. #dualist
+  - <Best revision of PTPI>: The PTPI only works if there is only one version of my personality in
+  future (no branching) #physicalist
+   - This means that each time we need to rely on PTPI we need to ensure that there is no other
+   person anywhere in the world with his personality. This is too complex to accept.
