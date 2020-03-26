@@ -30,3 +30,8 @@ Personal identity, Part II, The body theory and the personality theory [(HTML)](
 
 Personal identity, Part III, Objections to the personality theory [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/12.%20Personal%20identity%2C%20Part%20III%2C%20Objections%20to%20the%20personality%20theory.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/12.%20Personal%20identity%2C%20Part%20III%2C%20Objections%20to%20the%20personality%20theory.pdf)
 
+
+Personal identity, Part IV; What matters? [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/13.%20Personal%20identity%2C%20Part%20IV%2C%20What%20matters.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/13.%20Personal%20identity%2C%20Part%20IV%2C%20What%20matters.pdf)
+
+
+Personal identity, Part IV; What matters? [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/14.%20What%20matters%20(cont.)%2C%20The%20nature%20of%20death%2C%20Part%20I.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/14.%20What%20matters%20(cont.)%2C%20The%20nature%20of%20death%2C%20Part%20I.pdf)
