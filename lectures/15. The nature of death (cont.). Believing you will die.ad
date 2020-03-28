@@ -1,0 +1,67 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 15. The nature of death (cont.); Believing you will die
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 26/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 15. The nature of death (cont.); Believing you will die
+
+## Sleep case
+
+<Sleep case>: A person is in a deep dreamless sleep and presents no P-functions #d
+ - <Simplistic view on PTPI>: The person is therefore dead #p
+  - <Defence of PTPI>: Despite not P-functioning at the moment, the person is still able to P-function 
+  when they wake up! *Abilities aren't always actualised.* # #d
+
+## Coma case
+
+<Coma case>: A person is in a coma and presents no P-functions #d
+ - <Simplistic view on PTPI 2>: The person is therefore dead #p
+  + <Defence of PTPI 2>: Unlike in the Sleep case, the person in a coma is unable to P-function upon 
+  request. Therefore the ability to P-function cannot be actualised. #p
+
+
+## Suspended animation case
+
+<Suspended animation case>: A person is in a state of suspended animation, where he is fully intact
+and healthy, but is in a cryogenic sleep of some sort, but presents no P-functions at the moment #d
+ - <Simplistic view on PTPI 3>: The person is therefore dead #p
+  - <Argument from Ability to P-Function>: In this experiment the person simply needs to be taken out
+  of cryogenic sleep to continue P-functioning, so the *ability* to P-function was never lost. The person
+  is alive #d
+   - <Shelly Kagan>: It is not convincing to say that a person in a state of suspended animation is alive.
+   We need another feature to help us distinguish who is alive and who isn't in PTPI paradigm. #p
+
+
+## Believing you will die
+
+<A1>: It is impossible to *believe* in yourself being dead #p
+ + <P1>: It's impossible to imagine yourself being dead #d
+ - It is equally impossible to imagine yourself being in a deep dreamless sleep but we still believe in
+ dreamless sleep! #p
+  - You can picture it from the *outside*, but not from the *inside*! #d
+
+### First interpretation
+
+<Freud>: After all, one's own death is beyond imagining, and whenever we try to imagine it we can 
+see that we really survive as spectators. #d
+ - That is a horrible argument. We can easily imagine a meeting taking place without us, even if
+ we "smuggle ourselves in as an observer" #p
+
+### Second interpretaion
+
+<Second interpretation>: Nobody believes that they are going to undergo the death of the body #p
+ + <Tolstoy's Death of Ivan Ilyich>: Behaviour of Ivan Ilyich indicates that he was genuinely surprised 
+ to discover that he is mortal #d
