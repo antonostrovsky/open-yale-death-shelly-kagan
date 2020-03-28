@@ -39,3 +39,4 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 
 15. The nature of death (cont.); Believing you will die [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/15.%20The%20nature%20of%20death%20(cont.).%20Believing%20you%20will%20die.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/15.%20The%20nature%20of%20death%20(cont.).%20Believing%20you%20will%20die.pdf)
 
+16. Dying alone; The badness of death, Part I [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/16.%20Dying%20alone%2C%20The%20badness%20of%20death%2C%20Part%20I.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/16.%20Dying%20alone%2C%20The%20badness%20of%20death%2C%20Part%20I.pdf)
