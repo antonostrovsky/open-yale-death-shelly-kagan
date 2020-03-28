@@ -1,0 +1,94 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 16. Dying alone; The badness of death, Part I
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 28/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 16. Dying alone; The badness of death, Part I
+
+
+## Dying alone
+
+What are the possible interpretations of the claim "Everyone dies alone"?
+We need them to be *true*, *interesting*, *telling something special about death* 
+or *have valuable insight*.
+
+
+<Claim>: Everyone dies alone #d
+ - <Objection>: Not all people die alone #p
+  + <Alone>: Alone literally means "not in the presence of others" #p
+  + <Plato's Phaedo>: Socrates drinks hemlock and dies in the presence of his friends 
+    and disciples. #p
+    - <Claim 2>
+
+
+<Claim 2>: Everyone dies alone, even if they are physically surrouned by living people. 
+Dying is something that you are doing alone. #d
+ - <Objection 2>: We have battlefields where people are dying at the same time. #p
+  - <Claim 3>
+
+
+<Claim 3>: Everyone dies alone. Even if they are physically surrouned by people that 
+are dying next to them at the same time, it is still not a joint undertaking.  #d
+ + For example, you can both walk down the sidewalk in the same direction with another
+ person, but you may not be walking together. In contrast, you can walk together in
+ to the library and then it would be a joint activity. #d
+ - <Objection 3>: Sadly, there have been gruesome cases where entire groups of people 
+ drank poison, to die together as a group. #p
+  - <Claim 4>
+
+
+
+<Claim 4>: Even if people have decided to end their lives together, they die
+alone because nobody can take their part in the process of dying. 
+They have to go through it themselves. Nobody can die their death for them.  #d
+ - <The Tale of Two Cities objection>: A hero is taking the place of 
+ somebody else, who is about to die. #p
+  - <Objection 4>: That is not really somebody else's death! It is still
+  *their* death! #d
+   - <Objection to the value the argument brings>: Somebody can take your
+   slot at the hairdresser, but they can't take *your* haircut!
+   Nobody can eat *my* lunch for me! If somebody tries to eat my lunch
+   it becomes their lunch! Etc. This is true in relation to almost everything - if you emphasise
+   the word *my* enough.#p
+    + The original sentence is not some profound truth about Death, but merely
+    a grammatical point about the meaning of the word *my* #d
+  - <Objection from different meaning>: In Tolstoy's Ivan Ilyich we see 
+  the character dying feeling distant and removed ("alone"). This is what the
+  claim means! #d
+   - <Objection 5>: The original claim suggests that *everyone* dies alone.
+   Maybe the above is true about Ivan Ilyich, but some people die painlessly
+   and immediately (in their sleep, or suddenly hit by a truck) #p
+    + <Socrates' example>: Socrates knows he is going to die, but he was not 
+   distant or removed. #p
+    + <David Hume's example>: David Hume died due to an illness, but he remained 
+   cheerful to the very end, inviting people to his deathbed. #p
+
+
+## The value theory
+
+<Conclusion>: My death will not be bad for me. #d
+ + <p1>: Death is the end of my life. #d
+ + <p2>: I can only be affected in a good or bad way as long as I am alive. #d
+ - <Gottlieb Klopstock, "Separation">: Death is bad for the survivors - people
+  that loved the person who now have to live without him, and vice-versa. #p
+  - <Example of two space missions>: Space mission number 1 takes your friend away 
+  to a different solar system, and you get separated from them forever. 
+  Space mission number 2 takes your friend away, but soon after launch the spaceship
+  explodes. While separation is present in both scenarios, why is the second one
+  perceived as being much worse? #d
+
+To get to the central badness of death, we have to look past the separation aspect
+of it.
