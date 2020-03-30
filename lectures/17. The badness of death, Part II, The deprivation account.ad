@@ -1,0 +1,85 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 17. The badness of death, Part II, The deprivation account
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 30/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 17. The badness of death, Part II: The deprivation account
+
+## The badness of death core Argument
+
+<Argument for the badness of death>: Death is bad for me. #p
+ + When I'm dead I don't exist. #p
+ + Not existing is bad for me. #p
+  - <The Existence Requirement> #d
+  - <The Bold Existence Requirement> #d
+  + <The Modest Existence Requirement> #d
+  + <Intrinsic badness>
+  + <Comparative badness>
+
+
+## Intrinsic and Comparative badnesses
+
+<Intrinsic badness>: Non-existence is bad for me intrinsically #p
+   - Non-existence can't be bad for me intrinsically. It can't be that 
+   non-existence is intrinsically bad and worth avoiding for its own sake. 
+   That would only make sense if non-existence was somehow, for example, 
+   painful. But when you don't exist, you have no painful experiences. 
+   There's nothing about non-existence that makes us want to avoid it. #d
+
+<Comparative badness>: Non-existence is bad for me comparatively. #p
+ + <The deprivation account>
+
+
+## The deprivation account
+
+<The deprivation account>: Non-existence deprives you of the 
+   goods of life you might otherwise be getting. #p
+
+<The tragedy of unborn people>: There are countless billions of people that
+ could have existed, but were never born. It is therefore a great tragedy that they are
+deprived of goods of life they migth otherwise be getting. #d
+ + <The deprivation account>
+ - <The Modest Existence Requirement>
+
+
+## The Existence Requirements
+
+<The Existence Requirement>: Something can be bad for you only if you exist. #d
+ - <The deprivation account>
+
+<The Bold Existence Requirement>: Something can be bad for you only if you exist at
+ the very same time as the thing that's supposed to be bad for you.
+ - <The core of Epicurus' objection>
+
+<The Modest Existence Requirement>: Something can be bad for you only if you exist at *some* 
+time or the other (i.e. unborn people never existed)
+
+
+## Epicurus' objection
+
+<The core of Epicurus' objection>: There doesn't appear to be a time when death is bad for us. #d
+   + <Metaphysical objection>: When something is true, there's got to be a specific
+  time when it's true. #d
+    - There are some things that are true that we can't put a date on. #p
+     + Gunshot wound can take several days to lead to person's death. #p
+    + <Epicurus>: "So death, the most terrifying of ills, is nothing to us, since 
+   so long as we exist, death is not with us; but when death comes, then we do 
+   not exist. It does not then concern either the living or the dead, since for 
+  the former it is not, and the latter are no more." #d
+     - My death is bad for me *DURING* the time I'm dead. Because during that time, 
+   I'm deprived of the good things in life that I would be getting if only I were 
+   still alive. #p 
+      + <The deprivation account>
