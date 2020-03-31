@@ -1,0 +1,113 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 18. The badness of death, Part III; Immortality, Part I
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 31/03/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 18. The badness of death, Part III; Immortality, Part I
+
+## Problems with the Modest Existence Requirement
+
+<The Modest Existence Requirement>: Something can be bad for you only if you exist at *some* 
+time or the other (i.e. unborn people never existed) #d
+
+### Intuitive and logical case
+
+<Argument 1>: Not-existing (missing out on life) is BAD for this person #d
+ + <P1>: A person exists for only 1 second and then dies #d
+ + <The Modest Existence Requirement>
+
+### Counter-intuitive and logical case 
+
+<Argument 2>: Not-existing (missing out on life) is NOT BAD for this person #d
+ + <P2>: A person exists for 0 seconds #d
+ + <The Modest Existence Requirement>
+
+## Lucretius' Argument
+
+<Argument for the badness of death>: Death is bad for us. #p
+ + When we are dead we do not exist. #p
+ + Not existing is bad for us. #p
+  + <The deprivation account>: Non-existence deprives you of the 
+   goods of life you might otherwise be getting. #p
+   + Most of us are upset and anxious at the fact that we're going to die, 
+  because we will miss out on the eternity of great life experiences that 
+  we could have had if we were not to die. #p
+    - <Titus Lucretius>: Nobody's upset about the fact that there was an 
+   eternity of missed life experiences before they were born. 
+   Therefore Non-existing is not necessarily bad for us.
+   Therefore we should not be concerned about the fact that we're going to 
+   die #d
+     - <Common response>: Death involves loss, whereas prenatal non-existence 
+    does not involve loss. #p
+      - The prenatal existence is a state where you don't yet 
+      have something that you'll get later. This
+      situation is completely symmetrical to loss. Why do we care more about 
+      not having what once upon a time we did, than we care about not having 
+      what once upon a time we will? #d
+       + <Derek Parfit>: Caring about the former more than the latter is not 
+       an arbitrary preference on our part, because in fact, it's part of a 
+       quite general pattern we have of caring about the future in a way that
+        we don't care about the past. This is a very deep fact about human 
+        caring. We are oriented towards the future and concerned about what 
+        happens in it, in a way that we're not oriented and concerned about 
+        what happened in the past.#d
+         - The fact that we've got this attitude doesn't yet show that it's a 
+         rational attitude
+     - <Tom Nagel [Nagel 1979]>: In Platonian terms, the date of my death is a 
+     *contingent* thing about me (I could die on a certain year, or a year 
+     later - it would still be my death). Birth, however, is an *essential* fact
+     about me. If my parents had concieved me earlier it would be a different
+     sperm and egg joining, which means it would be a different person 
+     altogether! #p
+      - A hypothetical example with a frozen sperm and egg would make it possible
+      for the same person to be born earlier. And that person still would not 
+      lament about not having lived life prior to his birth, so Lucretious' 
+      argument stands. #d
+     - <Fred Feldman>: When you imagine your date of death being different, you 
+     imagine a longer life. But when you start thinking about the nonexistence 
+     before birth and you imagine the date of birth being different, you don't 
+     imagine more goods in life, you just imagine them taking place at a 
+     different time. #p
+      - If an asteroid wipes out the humankind tomorrow, having been born 10 years
+      earlier actually would have given you a longer life. #d
+
+
+
+## Immortality
+
+Not existing is bad for us. #p
+ + <The Deprivation Account>: Non-existence deprives you of the 
+   goods of life you might otherwise be getting. #p
+    - Eternal life will not necessarily bring goods. It can be hellish. #d
+     + <Jonathan Swift>: Gulliver comes to a country where a subset of the 
+     people live forever, immortals. And at first, Gulliver says, "Oh, isn't 
+     this wonderful?" But he forgot to think about the fact that if the kinds 
+     of changes that we undergo continue to accumulate, then you're getting 
+     older. Not just older, but weaker, in more and more discomfort,
+      senility sets in with a vengeance, until eventually you've got 
+      these creatures that live forever, but their mind is gone, and they're 
+      sort of in pain and they can't do anything because their body's utterly 
+      infirm and diseased and sick. That's not a wonderful thing to have. 
+      If immortality was like that, says Swift, that would be horrible. #d
+      - <Eternal bliss>
+     + <Michel de Montaigne>: Death is a blessing, because it puts an end to 
+     the pain and suffering and misery that afflict us in our old age. #d
+      - <Eternal bliss>: Eternal life doesn't have to result in decay. Living
+      in Heaven would mean that you stay healthy. #p
+       - <Bernard Williams 1978>: Every life would eventually become tedious 
+       and worse, excruciatingly painful. Every kind of life is a life you 
+       would eventually want to be rid of. Immortality, far from being a 
+       wonderful thing, would be a horrible thing. #d
