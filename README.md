@@ -45,5 +45,7 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 17. The badness of death, Part II, The deprivation account [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/17.%20The%20badness%20of%20death%2C%20Part%20II%2C%20The%20deprivation%20account.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/17.%20The%20badness%20of%20death%2C%20Part%20II%2C%20The%20deprivation%20account.pdf)
 
 
-
 18. The badness of death, Part III; Immortality, Part I [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/18.%20The%20badness%20of%20death%2C%20Part%20III.%20Immortality%2C%20Part%20I.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/18.%20The%20badness%20of%20death%2C%20Part%20III.%20Immortality%2C%20Part%20I.pdf)
+
+
+19. Immortality Part II, The value of life, Part I [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/19.%20Immortality%20Part%20II%2C%20The%20value%20of%20life%2C%20Part%20I.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/19.%20Immortality%20Part%20II%2C%20The%20value%20of%20life%2C%20Part%20I.pdf)
