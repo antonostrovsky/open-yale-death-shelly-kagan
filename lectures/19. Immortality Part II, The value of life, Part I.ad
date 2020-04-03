@@ -1,0 +1,60 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 19. Immortality Part II, The value of life, Part I
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 03/04/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+===
+
+# 19. Immortality Part II, The value of life, Part I
+
+##  Could immortality be something worth having forever?
+
+Eternal life is enjoyable #d
+ + There is an activity that one would enjoy doing forever #d
+  - <The human nature>: Human ability to reflect upon their experiences makes it 
+  impossible to enjoy anything forever #p
+   - Artificially induced memory loss could "refresh" person's 
+   memories, therefore enabling them to continue enjoying things they
+   would otherwise get bored of. #d
+    - <Methuselah's case>: Then it would not matter that it's 
+    physically the same person still enjoying eternal life, as the
+    continuity of personal identity would have been broken (memory 
+    loss) and over such a long time the personal identity would 
+    have changed. #p
+
+<Julian Barnes "The Dream">: The best thing would be to be able to 
+live as long as you wanted #p
+ + <The human nature>
+
+## The nature of wellbeing
+
+The things that are valuable as a means we can say are *instrumentally* 
+valuable. 
+The things that are worth having for their own sake, philosophers call 
+*intrinsically* valuable.
+
+
+<Hedonism life equation>:  In deciding whether what life holds for you 
+is worth having, you add up all the good times and subtract all the 
+bad times and see whether the net balance is positive or negative. #d
+ + <Hedonism>: The only thing intrinsically valuable is pleasure and the 
+only thing intrinsically bad is pain #d
+  - These are not the only things that matter in life #p
+   + <Robert Nozick's experience machine>: The experience machine has the
+    subject (voluntarily!) in a lab, with electrodes connected to his brain 
+    re-creating all the best life's experiences the subject could choose. 
+    Pleasure is maximum and the pain is absent. Strangely, most people would
+    choose experiencing the aforementioned things in real life vs virtually.
+    Therefore there must be something else apart from pure pleasure that
+    makes life good. #p
