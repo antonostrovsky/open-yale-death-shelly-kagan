@@ -49,3 +49,6 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 
 
 19. Immortality Part II, The value of life, Part I [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/19.%20Immortality%20Part%20II%2C%20The%20value%20of%20life%2C%20Part%20I.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/19.%20Immortality%20Part%20II%2C%20The%20value%20of%20life%2C%20Part%20I.pdf)
+
+
+20. The value of life, Part II; Other bad aspects of death, Part I [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/20.%20The%20value%20of%20life%2C%20Part%20II%2C%20Other%20bad%20aspects%20of%20death%2C%20Part%20I.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/20.%20The%20value%20of%20life%2C%20Part%20II%2C%20Other%20bad%20aspects%20of%20death%2C%20Part%20I.pdf)
