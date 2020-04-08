@@ -55,3 +55,5 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 
 
 21. Other bad aspects of death, Part II [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/21.%20Other%20bad%20aspects%20of%20death%2C%20Part%20II.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/21.%20Other%20bad%20aspects%20of%20death%2C%20Part%20II.pdf)
+
+22. Fear of death [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/22.%20Fear%20of%20death.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/22.%20Fear%20of%20death.pdf)
