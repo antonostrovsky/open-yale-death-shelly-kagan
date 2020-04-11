@@ -60,4 +60,4 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 
 23. How to live given the certainty of death [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/23.%20How%20to%20live%20given%20the%20certainty%20of%20death.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/23.%20How%20to%20live%20given%20the%20certainty%20of%20death.pdf)
 
-
+24. Suicide, Part I, The rationality of suicide [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/24.%20Suicide%2C%20Part%20I%2C%20The%20rationality%20of%20suicide.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/24.%20Suicide%2C%20Part%20I%2C%20The%20rationality%20of%20suicide.pdf)
