@@ -1,0 +1,120 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 24. Suicide, Part I, The rationality of suicide
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 11/04/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+
+===
+
+# 24. Suicide, Part I, The rationality of suicide
+
+## Could it ever be true that you'd be better off dead?
+
+### Dealing with the two-state requirement
+
+We can reason about whether a person can be better off dead #d
+ - Saying that one would be better off dead seems to presuppose that 
+ there's a second state that we can compare to their actual state. 
+ Since there isn't one, the judgment, "they'd be better off dead" 
+ is a logical mistake. #p
+  + <The two-state requirement>: In order to make comparisons-better off, 
+worse off; here he is in such and such a situation; he'd be better off 
+in that other situation--you've got to be able to talk about, on the 
+one hand, what condition or state the person is before and what 
+condition or state the person would be in afterwards, if they were 
+to make that choice. #p
+   - The two-state requirement isn't a genuine requirement with these 
+   sorts of evaluations. #d
+    + <The deprivation account>: We have sonvincingly reasoned about death 
+ being bad for us, as it deprives us of the goods of life (despite 
+ death being a state of non-existence)  #d
+    + <The second implication of the two-state requirement>: Let's say we 
+   saved someone's life. They are grateful, but we respond: "Given 
+   the two-state requirement, we can't say it's a good thing that 
+   your life continued, because the two-state requirement says we
+    can only make that kind of remark when there's a before state 
+    and an after state. And the after state would have been 
+    nonexistence. So we can't reason about whether I've done you a 
+    favour".  #d
+
+### What is it that goes into making somebody's life worthwhile?
+
+#### Hedonism
+
+<Hedonist's view>: The pain is greater than the pleasure, so my life
+is not worth living. #d
+ + <Hedonism>: Your quality of life is a matter of adding up all the 
+pleasure and subtracting all the pain #d
+  - We've argued against hedonism in previous classes #p
+   - Even if we argued that there are other (intrinsic) things that 
+   make life valuable besides pleasure and pain, we would still stack
+   up these extra instrumental things to come up with a total value of
+   life. #d 
+
+#### Container theory refresher
+
+<Neutral container theory>: The goods and the bads of my life 
+add up to 0. Therefore my life is neither good nor bad. #d
+ - <Moderate valuable container theory>: Your life itself has some value,
+ so add a few value points to your total to account for that. #p
+ - <Extreme valuable container theory>: Your life is so precious that
+ you have to add an almost infinite amount of value points to your total, as 
+ preciousness of your life will counteract any bad things that may happen
+ to you. #p
+
+### Possible scenarios
+
+#### Scenario 1
+
+<A1>: Ending life artificially doesn't ever make sense #p
+ + <P1>: A patient is terminally ill and is slowly deteriorating #p
+ + <P2>: Nonetheless, the "total value" on a graph of his life stays
+positive till the very end#p
+
+#### Scenario 2
+
+<False conclusion 1>: It would make sense for the person to end their 
+life at the stage when things first turn bad #p
+ + <P3>: A patient is terminally ill and is slowly deteriorating #p
+ + <P4>: For some chunk of their life the "grand total value" of it
+  gets below the zero line (worse than nonexistence).#p
+ - <Shelly Kagan 1>: This is throwing away a chunk of life that would still be worth 
+ aving. It's not the right thing to do. It doesn't make sense 
+ rationally. #d
+
+<False conclusion 2>: It would make sense for the person to end their
+life at the precise point at which their life is becoming worse than 
+nothing. #p
+ + <P3>
+ + <P4>
+ + <P5>: At the stage when life is becoming worse than nothing the 
+ person is no longer able to take their own life #p
+ - <Shelly Kagan 2>: Although your life is now still going to be a 
+ mixture of good and bad, and you wish there were a way to end it here,
+  you don't have that choice. It's throw away the good and the bad, 
+  or keep them both. And in this story, obviously enough, the good is 
+  enough to outweigh the bad. So, suicide doesn't make sense in that 
+  situation. #d
+
+#### Scenario 3
+
+
+<Shelly Kagan 3>: Suicide doesn't make sense in this situation. 
+Because even though what you're going to have during this period 
+is a life worse than the life you had before, the life you've got 
+here is still above the x-axis. It's still a life worth living #p
+ + <P6>: A person's life's going along really great and it takes a turn 
+ for the worse but then is going to get better.  #p
+
+

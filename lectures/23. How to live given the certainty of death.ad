@@ -14,6 +14,11 @@ model:
     removeTagsFromText: true
 selection:
     excludeDisconnected: false
+dot:
+    graphVizSettings:
+        concentrate: true
+        ranksep: 0.2
+        nodesep: 0.2
 ===
 
 # 23. How to live given the certainty of death
@@ -50,16 +55,16 @@ for the kinds of goals that you're virtually guaranteed that you'll accomplish. 
 ### Underlying premises
 
 <The more, the better>: As long as you've got a life that's got valuable contents, 
- the more, the better #p
+ the more of them, the better #p
   - In evaluating what life is better we can't just look for the total quantity 
   of good: we have to look at the peaks. With the right quality in place, quantity 
   becomes of secondary importance. 
    + <Argument against "The more, the better">: Short and eventful life appears 
    more appealing than eternity of mediocrity, despite having a greater 'total 
    of good things'  #p
-    + A 30,000-year life with goodness equal to 1 each year has the total of
+    + A 30,000-year life with goodness equal to 1 each year has a total of
    30,000 goodness units #p
-    + A 50-year life with goodness equal to 100 each year has the total of 5,000
+    + A 50-year life with goodness equal to 100 each year has a total of 5,000
    goodness units #p
    - <Quality is ALL that matters>
 
@@ -98,3 +103,15 @@ for the kinds of goals that you're virtually guaranteed that you'll accomplish. 
       + <Second approach to semi-immortality>: You're supposed to be comforted by the thought 
       that your accomplishments will continue to last after you. #d
        + <Friedrich Hölderlin's "To the Parcae">
+
+
+## Not seeing life as valuable
+
+<"Western" outlook>: Life is good and so the loss of it is bad #d
+ - <"Eastern" outlook>: Life is bad and so the loss of it is NOT bad #p
+  + <Buddhism's First Noble Truth>: life is suffering. Buddhists believe 
+  if you think hard about the underlying nature of life, you'll see 
+  that everyplace there is loss. There is suffering. There is disease. 
+  There is death. There is pain. Sure, there are things that we want and, 
+  if we're lucky, we get them. But then we lose them and that just adds to 
+  the suffering and the pain and the misery. #p
