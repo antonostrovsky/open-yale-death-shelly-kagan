@@ -14,11 +14,7 @@ model:
     removeTagsFromText: true
 selection:
     excludeDisconnected: false
-dot:
-    graphVizSettings:
-        concentrate: true
-        ranksep: 0.2
-        nodesep: 0.2
+
 ===
 
 # 23. How to live given the certainty of death
