@@ -1,0 +1,98 @@
+===
+title: Open Yale Courses - Death (PHIL 176)
+subTitle: 26. Suicide, Part III. The morality of suicide and course conclusion
+author: Shelly Kagan (adaptation to Argdown by Anton Ostrovsky)
+date: 17/04/2020
+color:
+    colorScheme: iwanthue-colorblind-friendly
+    tagColors:
+        n: 3
+        n2: 2
+        d: 4
+        p: 
+model:
+    removeTagsFromText: true
+selection:
+    excludeDisconnected: false
+dot:
+    graphVizSettings:
+        newrank: true
+===
+
+# 26. Suicide, Part III: The morality of suicide and course conclusion
+
+## Morality of suicide
+
+### Utilitarianism
+
+<Utilitarianism>: Right and wrong is a matter of producing as much happiness 
+for everybody as possible, counting everybody's happiness equally. And when 
+you can't produce happiness, then at least trying to minimize the misery and 
+suffering, counting everybody's misery and suffering equally. #p
+
+<Argument>: Suicide is morally wrong #d
+ + <Consequence of suicide>: Consequence of suicide is Death, which is bad. #d
+  - If you accept the possibility of somebody being be better off if their life ended 
+  sooner rather than later, we're led to the conclusion that the consequences of 
+  suicide might actually be good rather than bad. #p
+   - When the person kills themselves that typically causes a great deal of 
+   distress for the family and friends of the person who has killed themselves. #d
+    - Even if there are negative consequences in terms of distress to the 
+    family, friends, and loved ones, of the person committing suicide, 
+    that might still be outweighed by the benefit to the person themselves. #p
+     - There are situations where suffering of others might outweigh the 
+     suffering that you would undergo. It all depends on the facts.#d
+ + <Moral relevance of the consequences>: Almost all moral theories agree that 
+the consequences of your actions matter. #d
+
+### Deontology
+
+<Deontology>: In deciding whether your action is right or wrong, you have to pay 
+attention to the consequences, but you have to pay attention to other things as well. #d {rank: "r2"}
+ + It is important to not just consider what the results were, but what were your means 
+ of getting those results, and did you have to harm anybody to produce the results. #d
+
+
+#### A moral philosophy example
+
+<Utilitarianism response>: Using this single perfectly healthy person as a donor is 
+morally right, as it saves five other people. #p {rank: "r2"}
+ + We have five patients in a hospital who are going to die because of organ failures of 
+one sort or another. #p
+ + You could kill a perfectly healthy person and save five people. #p
+ - <Deontologist objection>: It's wrong to kill somebody who is innocent even though 
+ by Utilitarianist hypothesis the result would overall be better. The right of person to life 
+ weighs-in when we're deciding what to do morally. #d
+
+#### A case with suicide
+
+<Utilitarianist point>: Suicide may be morally right if somebody would be better off if 
+their life ended sooner rather than later. #d {rank: "r2"}
+ - <Deontologist objection 2>: Suicide is morally unacceptable. When I kill myself, 
+ I'm killing somebody. #p
+  + <Deontologist point>: Killing an innocent person is morally wrong, as the right 
+  to life is so powerful it outweighs consequences #p
+  - <Possible response>: "Morality is only about how I treat others, It's not about 
+  how I treat myself." #d
+   - <Shelly Kagan>: It is difficult to see why we would accept the claim that morality 
+   only governs how we treat other people. It seems to be plausible to say morality 
+   includes rules not only governing how I treat others but also how I treat myself. #d
+  - <Shelly Kagan 2>: "Killing somebody" within the Deontologist point refers to
+  leaving others worse off. If killing oneself is leaving the person better-off then 
+  even from deontological perspective suicide may be morally legitimate. #d
+  - <The consent principle>: Consent makes it legitimate to harm people, even though in the 
+  absence of consent it wouldn't be legitimate. #d
+   + Punching a person in the face is immoral, yet boxing is morally acceptable. 
+   The difference is the presence of consent #d
+   - <Shelly Kagan 3>: In accepting the consent principle we are lead to some implausible 
+   conclusions. If a person gave you their consent to kill them it would still seem 
+   immoral. #p
+    - <Shelly Kagan 4>: We can't throw away the consent principle as there are cases of
+    heroic self-sacrifices at war. People sacrifice their own lives to save other people,
+    and such behaviour is praised. Therefore we must retain the consent principle at least
+    partially.#p
+
+<Shelly Kagan 5>: Suicide isn't always legitimate, but it's sometimes legitimate. #d
+ + <The modified consent principle>: We need to have both consent and good reasons, as well as
+ability of the consenting individual to think rationally #p
+  + <Shelly Kagan 4>
