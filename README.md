@@ -64,3 +64,6 @@ This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](ht
 
 
 25. Suicide, Part II. Deciding under uncertainty [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/25.%20Suicide%2C%20Part%20II.%20Deciding%20under%20uncertainty.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/25.%20Suicide%2C%20Part%20II.%20Deciding%20under%20uncertainty.pdf)
+
+
+26. Suicide, Part III. The morality of suicide [(HTML)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antonostrovsky/open-yale-death-shelly-kagan/master/lectures/26.%20Suicide%2C%20Part%20III.%20The%20morality%20of%20suicide%20and%20course%20conclusion.html)  [(Argument map - PDF)](https://github.com/antonostrovsky/open-yale-death-shelly-kagan/raw/master/lectures/26.%20Suicide%2C%20Part%20III.%20The%20morality%20of%20suicide%20and%20course%20conclusion.pdf)
