@@ -1,5 +1,7 @@
 ---
+permalink: README.html
 ---
+
 ## Open Yale Courses - Death (PHIL 176). Shelly Kagan
 
 ### Adaptation to Argdown
