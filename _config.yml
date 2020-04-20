@@ -1,7 +1,5 @@
 remote_theme: antonostrovsky/tale
 
-permalink:    /:year-:month-:day/:title
-paginate:     5
 
 plugins:
   - jekyll-paginate
