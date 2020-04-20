@@ -1,5 +1,5 @@
 ---
-permalink: README.html
+permalink: index.html
 ---
 
 ## Open Yale Courses - Death (PHIL 176). Shelly Kagan
