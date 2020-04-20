@@ -1,4 +1,4 @@
-remote_theme: chesterhow/tale
+remote_theme: antonostrovsky/tale
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
