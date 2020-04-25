@@ -2,7 +2,6 @@
 permalink: index.html
 ---
 
-### Adaptation to Argdown
 
 This is an adaptation of Shelly Kagan's course Death from [Open Yale Courses](https://oyc.yale.edu/death/phil-176) to [Argdown](https://argdown.org/)
 
