@@ -1,5 +1,6 @@
 remote_theme: antonostrovsky/tale
 twitter_username: argumentmaps
+title: Open Yale Courses - Death (PHIL 176). Shelly Kagan
 
 plugins:
   - jekyll-paginate
