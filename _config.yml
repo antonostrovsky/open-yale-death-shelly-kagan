@@ -7,6 +7,12 @@ baseurl: "/open-yale-death-shelly-kagan"
 title: Open Yale Courses - Death (PHIL 176). Shelly Kagan
 
 plugins:
-  - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
